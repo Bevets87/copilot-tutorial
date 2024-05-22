@@ -1,0 +1,16 @@
+{
+    "name": "copilot-tutorial",
+    "version": "1.0.0",
+    "description": "A tutorial for using GitHub Copilot in Visual Studio Code.",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest --watch"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
+  
