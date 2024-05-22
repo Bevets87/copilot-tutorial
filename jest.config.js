@@ -4,4 +4,5 @@ module.exports = {
   moduleFileExtensions: ["js"],
   rootDir: ".",
   verbose: true,
+  reporters: ["jest-silent-reporter"],
 };
