@@ -5,6 +5,10 @@
 // 2. It contains a bug that causes it to return the wrong result in some cases.
 // 3. Use GitHub Copilot's inline chat to identify and fix the bug.
 // 4. Ask Copilot to explain what the bug was and how the fix resolves it.
+// 5. To open the inline chat in Visual Studio Code:
+//    - Highlight the code you want help with.
+//    - Press `Ctrl + i` (Windows/Linux) or `Cmd + i` (macOS).
+//    - Alternatively, right-click on the highlighted code and select "GitHub Copilot: Inline Chat".
 
 // A function to calculate the sum of an array of numbers
 function sumArray(arr) {

@@ -4,7 +4,10 @@
 // 1. The function below calculates the average of an array of numbers.
 // 2. It lacks proper documentation.
 // 3. Use GitHub Copilot's inline chat to generate comprehensive documentation for this function.
-// 4. Ask Copilot to explain what the function does, its parameters, and its return value.
+// 4. To open the inline chat in Visual Studio Code:
+//    - Highlight the code you want help with.
+//    - Press `Ctrl + i` (Windows/Linux) or `Cmd + i` (macOS).
+//    - Alternatively, right-click on the highlighted code and select "GitHub Copilot: Inline Chat".
 
 // A function to calculate the average of an array of numbers
 function calculateAverage(arr) {

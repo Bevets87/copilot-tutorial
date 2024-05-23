@@ -5,6 +5,10 @@
 // 2. Use GitHub Copilot's inline chat to refactor this function to use recursion instead.
 // 3. Ask Copilot to explain the differences and benefits of the recursive approach.
 // 4. Measure the performance of both the original and refactored functions to compare their efficiency.
+// 5. To open the inline chat in Visual Studio Code:
+//    - Highlight the code you want help with.
+//    - Press `Ctrl + i` (Windows/Linux) or `Cmd + i` (macOS).
+//    - Alternatively, right-click on the highlighted code and select "GitHub Copilot: Inline Chat".
 
 // A function to calculate the factorial of a number
 // Replace with a recursive approach
