@@ -3,6 +3,6 @@ module.exports = {
   testMatch: ["**/tests/**/*.test.js"],
   moduleFileExtensions: ["js"],
   rootDir: ".",
-  reporters: ["jest-silent-reporter"],
   verbose: false,
+  silent: true,
 };
